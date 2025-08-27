@@ -18,15 +18,13 @@
 - Obsessed with digital organization & productivity (specially **Notion**)
 - Gamer in the free time 🎮
 
----
-
 ## 💻 Tech Journey
 | Tech | Progress |
 |------------|------------|
 | 🐍 Python | ███░░░░░░░░░ 20% |
 | 💾 SQL    | ██░░░░░░░░░░ 10% |
 
----
+
 
 ## 🌟 Featured Repositories  
 *(coming soon... stay tuned ✨)*  
@@ -35,7 +33,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/catarinapereirasousa/)
 - 📄 [Curriculum Vitae](https://acrobat.adobe.com/id/urn:aaid:sc:eu:371aa6f8-7b8a-4961-975b-11dfba8fe795)
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
