@@ -1,10 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=Catarina%20Sousa&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 </p>
+
 # ✨ Hi, I'm Cat ✨
 
 💖 A marketing girly discovering the wonders of the data science world 📊💻✨
+
 🎓 Master's in Data-Driven Marketing (specialization in Data Science for Marketing) @ NOVA IMS
+
 🌱 Currently a newbie in the world of programming
 
 ---
