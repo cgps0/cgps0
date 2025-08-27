@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=Catarina%20Sousa&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=Welcome&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 </p>
 
 # ✨ Hi, I'm Cat ✨
@@ -34,4 +34,9 @@
 ## 🔗 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/catarinapereirasousa/)
 - 📄 [Curriculum Vitae](https://acrobat.adobe.com/id/urn:aaid:sc:eu:371aa6f8-7b8a-4961-975b-11dfba8fe795)
--   
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
+</p>
