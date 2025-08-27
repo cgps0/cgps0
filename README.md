@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=150&section=header&text=Catarina%20Sousa&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+</p>
+# ✨ Hi, I'm Cat ✨
 
-<!--
-**cgps0/cgps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💖 A marketing girly discovering the wonders of the data science world 📊💻✨
+🎓 Master's in Data-Driven Marketing (specialization in Data Science for Marketing) @ NOVA IMS
+🌱 Currently a newbie in the world of programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+- I like to create content about books, study and lifestyle → [focuswithcat](https://bento.me/focuswithcat) ✨
+- Always eager to learn new things 🧠
+- Obsessed with digital organization & productivity (specially **Notion**)
+- Gamer in the free time 🎮
+
+---
+
+## 💻 Tech Journey
+| Tech | Progress |
+|------------|------------|
+| 🐍 Python | ███░░░░░░░░░ 20% |
+| 💾 SQL    | ██░░░░░░░░░░ 10% |
+
+---
+
+## 🌟 Featured Repositories  
+*(coming soon... stay tuned ✨)*  
+
+## 🔗 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/catarinapereirasousa/)
+- 📄 [Curriculum Vitae](https://acrobat.adobe.com/id/urn:aaid:sc:eu:371aa6f8-7b8a-4961-975b-11dfba8fe795)
+-   
